@@ -1,0 +1,42 @@
+_repo: The-Pied-Piper-of-Hamelin-and-Other-PoemsEvery-Boy-s-Library_42850
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42850-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+description: The Pied Piper pipes the village free of rats, and when the villagers
+  refuse to pay him for the service he exacts a terrible revenge.
+gutenberg_issued: '2013-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Avarice -- Juvenile poetry'
+- !lcsh 'Courage -- Juvenile poetry'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Pied Piper of Hamelin (Legendary character) -- Juvenile poetry'
+- !lcsh 'Soldiers -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Promises -- Juvenile poetry'
+- !lcsh 'Missing children -- Juvenile poetry'
+- !lcsh 'Children''s poetry'
+- !lcsh 'War -- Juvenile poetry'
+tableOfContents: The Pied Piper of Hamelin -- Hervé Riel -- Cavalier tunes -- "How
+  they brought the good news from Ghent to Aix" -- Through the Metidja to Abd-el-Kadr
+  - Incident of the French camp -- Clive -- Muléykeh -- Tray -- A tale -- Gold hair
+  -- Donald -- The glove.
+title: "The Pied Piper of Hamelin, and Other Poems\r\nEvery Boy's Library"
+url: http://www.gutenberg.org/ebooks/42850
